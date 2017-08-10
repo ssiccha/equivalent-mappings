@@ -1,10 +1,11 @@
 #############################################################################
 ##
-##                             groupoid orbits package
+##                            equivalent mappings
 ##  canonization.g
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
 ##  determines a canonical representative of a suborbit
 ##

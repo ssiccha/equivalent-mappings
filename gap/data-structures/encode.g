@@ -1,3 +1,16 @@
+#############################################################################
+##
+##                             equivalent mappings
+##  encode.g
+##                                                          Sergio Siccha
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##  Encodes m-tuples of values 1..n to integers <= n^m.
+##
+#############################################################################
+
 ## Creates bit-encoding function and returns it.
 ## Encodes tuples with m entries, each in 1..n.
 ## n = numberProcessors;

@@ -1,4 +1,15 @@
 #!/usr/bin/env python
+#############################################################################
+##
+##                         equivalent mappings
+##  gap.py
+##                                                          Andres Goens
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##
+#############################################################################
 
 from subprocess import Popen, PIPE, STDOUT
 from threading import Thread

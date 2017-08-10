@@ -1,3 +1,17 @@
+#!/bin/bash
+#############################################################################
+##
+##                         equivalent mappings
+##  create-empty-workspace.sh
+##                                                          Sergio Siccha
+##                                                          Andres Goens
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##
+#############################################################################
+
 #expand aliases (gap might be called via an alias)
 GAP_BIN=gap
 WORKSPACE_FILE=${HOME}"/.gap/emptyWorkspace"

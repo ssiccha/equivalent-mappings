@@ -1,3 +1,17 @@
+#############################################################################
+##
+##                        equivalent mappings
+##  orbit.g
+##                                                          Sergio Siccha
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##  Read mappings from a stream and build orbits out of them.
+##
+#############################################################################
+
+## TODO Deprecated, orb-pkg is used instead
 ###############################
 # function SemigroupOnMappings
 # Input:

@@ -1,10 +1,11 @@
 #############################################################################
 ##
-##                        Orbits of mappings package
+##                        equivalent mappings
 ##  read.g
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
 ##  Read all *.g, *.gi and *.gd files.
 ##

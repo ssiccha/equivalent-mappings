@@ -1,10 +1,11 @@
 #############################################################################
 ##
-##                         KPN-Architecture-Mappings
+##                         equivalent mappings
 ##  named-pipes.gi
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
 ##  Provides a means to communicate with another process
 ##  via a named pipe.

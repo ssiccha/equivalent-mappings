@@ -1,5 +1,16 @@
 #!/bin/bash
-# runarchsym.sh
+#############################################################################
+##
+##                         equivalent mappings
+##  runarchsym.sh
+##                                                          Sergio Siccha
+##                                                          Andres Goens
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##
+#############################################################################
 
 if [ "$#" != "4" -a "$#" != "5" ]; then
     echo -en "Usage: runarchsym.sh <app-name> <arch-name>"

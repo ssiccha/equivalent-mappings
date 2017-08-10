@@ -1,5 +1,5 @@
 ###############################
-# This file only serves to 
+# This file only serves to
 # communicate with python.
 ###############################
 Read("read.g");

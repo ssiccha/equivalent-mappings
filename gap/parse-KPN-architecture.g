@@ -1,16 +1,16 @@
 #############################################################################
 ##
-##                             orbit package
+##                             equivalent mappings
 ##  parse-KPN-architecture.g
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
-##  tests for groupoid orbit
+##  Build record with information about the KPN and Architecture from their
+##  names.
 ##
 #############################################################################
-## Benchmarking and testing of hashTableOrbit
-
 ParseKPNArchitecture := function( KPNString, ArchitectureString )
     local numberTasks, lastPos, numberProcessors,
       AutKPN, AutSemiArch, canonization,

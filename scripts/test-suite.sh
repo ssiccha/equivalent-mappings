@@ -1,5 +1,16 @@
 #!/bin/bash
-# test-suite.sh
+#############################################################################
+##
+##                         equivalent mappings
+##  test-suite.sh
+##                                                          Sergio Siccha
+##                                                          Andres Goens
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##
+#############################################################################
 
 if [ "$#" != "2" -a "$#" != "3" ]; then
     echo -en "Usage: \ttest-suite.sh <app-name> <arch-name> <debug>\n"

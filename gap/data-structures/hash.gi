@@ -1,3 +1,16 @@
+#############################################################################
+##
+##                            equivalent mappings
+##  hash.gi
+##                                                          Sergio Siccha
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##  Hash Tables
+##
+#############################################################################
+
 # Each HashTable specifies the HashFunction used for its objects
 # during its creation.
 

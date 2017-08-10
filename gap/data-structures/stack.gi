@@ -1,10 +1,11 @@
 #############################################################################
 ##
-##                             parorb package
+##                             equivalent mappings
 ##  stack.gi
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
 ##  Implementation of MyStack
 ##

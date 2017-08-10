@@ -1,12 +1,13 @@
 #############################################################################
 ##
-##                              package
+##                              equivalent mappings
 ##  parse-mappings.g
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
-##  parse a P to PE mapping
+##  Parse a P to PE mapping.
 ##
 #############################################################################
 

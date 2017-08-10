@@ -1,10 +1,11 @@
 #############################################################################
 ##
-##                         KPN-Architecture-Mappings
+##                         equivalent mappings
 ##  named-pipes.gd
 ##                                                          Sergio Siccha
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
 ##  Declarations for named-pipes.gi
 ##

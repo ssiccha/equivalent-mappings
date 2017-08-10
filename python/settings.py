@@ -1,4 +1,15 @@
 #!/usr/bin/env python
+#############################################################################
+##
+##                         equivalent mappings
+##  settings.py
+##                                                          Andres Goens
+##
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
+##
+##
+#############################################################################
 
 import os
 import os.path

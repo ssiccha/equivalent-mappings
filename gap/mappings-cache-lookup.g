@@ -1,11 +1,13 @@
 #############################################################################
 ##
-##                       KPN-Architecture-Mappings
+##                            equivalent mappings
+##
 ##  mappings-cache-lookup.g
 ##                                                          Sergio Siccha
 ##                                                          Andres Goens
 ##
-##  Copyright...
+##  Copyright 2017 by the authors.
+##  This file is free software, see license file.
 ##
 ##  For a given mapping, determine whether it appears in
 ##  a list of previously simulated mappings.
